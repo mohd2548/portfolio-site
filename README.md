@@ -23,5 +23,3 @@ This site serves as a central hub for recruiters and collaborators to explore my
 - **Version Control:** Git & GitHub  
 
 ---
-
-## 📂 Project Structure
